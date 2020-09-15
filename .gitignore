@@ -1,2 +1,6 @@
-*.idea
+.idea
+/.idea
+Andersen_copy.iml
 Intensive.iml
+/lib
+/out
