@@ -1,6 +1,7 @@
 *.idea
-Intensive/Intensive.iml
-Intensive/.idea
 /.idea
 Andersen_copy.iml
 /lib
+out/
+/Intensive/Intensive.iml
+/Intensive/.idea/
