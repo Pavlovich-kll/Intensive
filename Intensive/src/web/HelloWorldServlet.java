@@ -14,6 +14,6 @@ public class HelloWorldServlet extends HttpServlet {
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.getWriter().write("Hello World and test Jenkins!");
+        response.getWriter().write("Hello World and test Jenkins!!");
     }
 }
